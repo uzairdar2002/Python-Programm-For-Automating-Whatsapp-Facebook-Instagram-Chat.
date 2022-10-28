@@ -11,12 +11,6 @@
 
 
 
-
-# Now writing while loop.
-
-
-
-
 # Now, open the chat messenger in your browser in a new tab. Once done, save and run the python script. Once the execution starts, make sure to place your cursor in the right place (Text box, where you write message).
 
 # In order to stop the program you need to manually stop it in your code editor.
