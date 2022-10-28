@@ -10,12 +10,12 @@
 # (sudo python3 -m pip install pyautogui).(Note: Use cammand without brackets).
 
 
-import pyautogui
-import time
+import pyautogui;
+import time;
 
 
-time.sleep(5)
-text = "The text you want to send"
+time.sleep(5);
+text = "The text you want to send";
 
 # Now writing while loop.
 
